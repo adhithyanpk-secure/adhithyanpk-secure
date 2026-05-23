@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/adhithyanpk-secure/adhithyanpk-secure/48fd4ac6e613515b09657d5c75cf2a6ef4becf20/animated-wave.svg" width="100%" alt="Cover" />
-</p>
+<img src="https://raw.githubusercontent.com/adhithyanpk-secure/adhithyanpk-secure/main/animated-cyber-wave.svg" width="100%" alt="Cybersecurity Wave Cover" />
 ## 👋 Hi, I'm Adhi!
 
 🌟 **Cybersecurity Student | Python Developer | Tech Explorer**
@@ -19,8 +17,20 @@ I'm currently a polytechnic student specializing in Electronics & Communication 
 > To become a skilled ethical hacker protecting the systems and innovations of tomorrow, while continuously learning and experimenting with new tech.
 
 ---
-you can talk to me through instagram😊
-ID:-adhi_secure
+🌐 Socials:
+[Facebook](https://facebook.com/Adhithyan pk) Instagram
+
+💻 Tech Stack:
+Python
+
+📊 GitHub Stats:
+
+
+
+
+
+
+
 
 <!--
 **adhithyanpk-secure/adhithyanpk-secure** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
