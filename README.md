@@ -31,15 +31,3 @@ Python
 
 
 
-
-<!--
-**adhithyanpk-secure/adhithyanpk-secure** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on cool cybersecurity projects (in progress)!
-- 🌱 Constant learner—AI, automation, security, and more.
-- 💬 Ask me about Python, cybersecurity concepts, and ECE.
-- 📫 How to reach me: (Add your email or social links if you want)
-- ⚡ Fun fact: I’m as passionate about editing videos as I am about reading up on the latest cyber threats!
--->
