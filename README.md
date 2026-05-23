@@ -1,6 +1,5 @@
-
-animated-wave.svg
-## 👋 Hi, I'm Adhithyan PK!
+![Cover image](https://github.com/adhithyanpk-s
+## 👋 Hi, I'm Adhi!
 
 🌟 **Cybersecurity Student | Python Developer | Tech Explorer**
 
