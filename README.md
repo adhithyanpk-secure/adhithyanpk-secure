@@ -1,3 +1,5 @@
+
+animated-wave.svg
 ## 👋 Hi, I'm Adhithyan PK!
 
 🌟 **Cybersecurity Student | Python Developer | Tech Explorer**
