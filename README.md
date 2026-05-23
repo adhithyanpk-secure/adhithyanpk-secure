@@ -21,11 +21,11 @@ I'm currently a polytechnic student specializing in Electronics & Communication 
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=adhithyanpk-secure&theme=matrix&hide_border=true&background=020b18&ring=00ff88&fire=00ccff&currStreakLabel=00ff88&sideLabels=00ccff&dates=4dbfff&currStreakNum=ffffff&sideNums=ffffff" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=adhithyanpk-secure&show_icons=true&theme=matrix&hide_border=true&bg_color=020b18&title_color=00ff88&icon_color=00ccff&text_color=4dbfff" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=adhithyanpk-secure&show_icons=true&hide_border=true&bg_color=020b18&title_color=00ff88&icon_color=00ccff&text_color=4dbfff&count_private=true" width="49%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adhithyanpk-secure&layout=compact&theme=matrix&hide_border=true&bg_color=020b18&title_color=00ff88&text_color=4dbfff" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adhithyanpk-secure&layout=compact&hide_border=true&bg_color=020b18&title_color=00ff88&text_color=4dbfff&langs_count=6" width="40%" />
 </p>
 
 <p align="center">
