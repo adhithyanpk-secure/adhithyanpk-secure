@@ -1,4 +1,6 @@
-![Cover image](https://github.com/adhithyanpk-secure/adhithyanpk-secure/blob/main/animated-wave.gif)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/adhithyanpk-secure/adhithyanpk-secure/48fd4ac6e613515b09657d5c75cf2a6ef4becf20/animated-wave.svg" width="100%" alt="Cover" />
+</p>
 ## 👋 Hi, I'm Adhi!
 
 🌟 **Cybersecurity Student | Python Developer | Tech Explorer**
