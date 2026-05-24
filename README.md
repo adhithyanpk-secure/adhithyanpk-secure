@@ -1,5 +1,5 @@
 <img src="https://raw.githubusercontent.com/adhithyanpk-secure/adhithyanpk-secure/main/animated-cyber-wave.gif" width="100%" alt="Cybersecurity Wave Cover" />
-#👋 Hi, I'm Adhi!
+<h1>👋 Hi, I'm Adhi!<\h1>
 
 🌟 **Cybersecurity Student | Python Developer | Tech Explorer**
 
