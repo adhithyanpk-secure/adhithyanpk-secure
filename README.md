@@ -7,8 +7,9 @@ I'm currently a polytechnic student specializing in Electronics & Communication 
 
 ### About Me
 
-- 🔐 Aspiring Ethical Hacker, passionate about building and breaking things to understand how technology works.
-- 🧑‍💻 Python enthusiast—I'm always exploring new ways to leverage it for automation, security, and creative applications.
+- 🔐 Aspiring Ethical Hacker, passionate about building and breaking things to understand how technology        works.
+- 🧑‍💻 Python enthusiast—I'm always exploring new ways to leverage it for automation, security, and
+      creative applications.
 - 🎬 I like mixing tech with creativity—coding, video editing, and playing with AI.
 - 🚀 Always eager to learn about the latest trends and breakthroughs in technology.
 - ⚡Electronics engineer student.
