@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/adhithyanpk-secure/adhithyanpk-secure/main/animated-cyber-wave.gif" width="100%" alt="Cybersecurity Wave Cover" />
 👋 Hi, I'm Adhi!
 
-🌟 **Cybersecurity Student | Python Developer | Tech Explorer**
+🌟 **Cybersecurity Student | Python Developer | Tech Explorer | Electronic Engineer Student**
 
 I'm currently a polytechnic student specializing in Electronics & Communication Engineering, with a deep curiosity for the world of cybersecurity. My journey goes beyond classrooms: I dive into coding with Python, experiment with AI, and even enjoy the art of video editing.
 
