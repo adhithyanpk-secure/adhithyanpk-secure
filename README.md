@@ -13,6 +13,7 @@ I'm currently a polytechnic student specializing in Electronics & Communication 
 - 🎬 I like mixing tech with creativity—coding, video editing, and playing with AI.
 - 🚀 Always eager to learn about the latest trends and breakthroughs in technology.
 - ⚡Electronics engineer student.
+- 🌐 full stack web developer
 
 ### My Vision
 
